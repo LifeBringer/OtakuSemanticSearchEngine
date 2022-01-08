@@ -1,0 +1,8 @@
+requests
+torch
+tensorflow
+flask
+sentence-transformers
+scipy
+keras
+pandas
