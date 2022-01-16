@@ -232,4 +232,4 @@ The tasks below are based on my current comprehension of NLP. The path followed 
 ## 3. Are you facing any challenges?
 I have being going over the notes of Jacob Eisenstein, called [“Natural language Processing”]( https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf). I found this book daunting when I first read through it, however after going through Text Information Systems it’s become a more enjoyable read. New topics are tough to digest, however there is content from Medium through to youtube that provide a quick high-level overview.
 
-I have started processing the data, it is very easy to get into too much detail as there are plenty of interesting papers that dwell into alternative approaches.
+I have started processing the data, it is very easy to get into too much detail as there are plenty of interesting papers that delve into alternative approaches.
